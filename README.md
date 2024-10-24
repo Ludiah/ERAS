@@ -7,4 +7,4 @@ This analysis assesses several types of reliability including:
 3. Internal Consistancy
 4. Split-half 
 
-Methods of ** Pearson Correlation ** and ** Chronbach's Alpha ** are applied to different subsets of the data to measure reliability.
+Methods of **Pearson Correlation** and **Chronbach's Alpha** are applied to different subsets of the data to measure reliability.
